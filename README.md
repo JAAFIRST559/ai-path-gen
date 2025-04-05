@@ -48,4 +48,4 @@ This project is licensed under the **MIT License**. Feel free to use, fork, and 
 Developed by **Codie Jaa** for the _Hack the Future: A GenAI Sprint Powered by Data_ (Strategy & Consulting Track).
 
 ---
-Inspired by the work of [Dilpreet Singh](https://github.com/dilpreetsinghaulakh).
+
