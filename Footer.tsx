@@ -13,7 +13,7 @@ export default function Footer() {
 
   return (
     <footer className="h-16 flex justify-center items-center gap-6 px-4 border-t border-gray-200 dark:border-gray-700">
-      <p>© {year ?? "2025"} Jasmine Ilakkia N</p>
+      <p>© {year ?? "2024"} Dilpreet Singh</p>
       <div className="hidden sm:flex text-sm items-center gap-2 bg-black border border-neutral-700 text-white px-4 py-2 rounded-lg">
         Built with{" "}
         <Image
