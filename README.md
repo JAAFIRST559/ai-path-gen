@@ -44,7 +44,7 @@ In today's rapidly evolving digital world, learners and professionals are overwh
 
 ## 📸 Visual Demo
 
-![Skill Path Generator](./public/Generator-modified.png)
+![Skill Path Generator](/Generator-modified.png)
 
 ---
 
