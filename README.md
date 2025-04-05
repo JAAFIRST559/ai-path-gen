@@ -31,7 +31,7 @@ SkillSavvy AI is a dynamic learning platform that generates personalized skill p
 ## 📦 How to Run Locally
 
 ```bash
-git clone https://github.com/dilpreetsinghaulakh/ai-path-gen.git
+git clone https://github.com/JAAFIRST559/ai-path-gen.git
 cd ai-path-gen
 npm install
 npm run dev
