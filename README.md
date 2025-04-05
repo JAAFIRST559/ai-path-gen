@@ -1,11 +1,15 @@
 
 # SkillSavvy AI – Personalized Learning with Generative AI
 
-A fork and extension of [ai-path-gen](https://github.com/dilpreetsinghaulakh/ai-path-gen), built to provide personalized learning journeys using Generative AI and Agentic AI.
+
+A fork and extension of [ai-path-gen](https://github.com/JAAFIRST559/ai-path-gen), built to provide personalized learning journeys using Generative AI and Agentic AI.
 
 ## 🚀 Overview
 
+
 SkillSavvy AI is a dynamic learning platform that generates personalized skill paths for users based on their career goals, skill level, and preferred learning style. Powered by GenAI and intelligent agents, it acts like a virtual mentor that helps users progress toward their dream role efficiently.
+
+![SkillSavvy AI Preview](./Generator-modified.png)
 
 ## ✨ Features
 
