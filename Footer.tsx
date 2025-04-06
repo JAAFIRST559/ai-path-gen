@@ -1,5 +1,4 @@
-
-'use client'; // Only needed if used in an SSR/SSG context where `new Date()` causes hydration issues
+'use client';
 
 import Image from "next/image";
 import { useEffect, useState } from "react";
@@ -12,9 +11,23 @@ export default function Footer() {
   }, []);
 
   return (
-    <footer className="h-16 flex justify-center items-center gap-6 px-4 border-t border-gray-200 dark:border-gray-700">
+    <footer className="h-20 flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-6 px-4 border-t border-gray-200 dark:border-gray-700 text-sm">
       <p>© {year ?? "2025"} Jasmine Ilakkia N</p>
-      <div className="hidden sm:flex text-sm items-center gap-2 bg-black border border-neutral-700 text-white px-4 py-2 rounded-lg">
+      <a
+        href="https://github.com/yourusername"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 dark:text-blue-400 underline"
+      >
+        GitHub
+      </a>
+      <a
+        href="mailto:jasmine@example.com"
+        className="text-blue-600 dark:text-blue-400 underline"
+      >
+        Contact
+      </a>
+      <div className="hidden sm:flex items-center gap-2 bg-black border border-neutral-700 text-white px-4 py-1 rounded-lg">
         Built with{" "}
         <Image
           className="invert h-3 w-auto"
